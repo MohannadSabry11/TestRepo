@@ -1,3 +1,3 @@
 int double_num(int num){
-  return num*3;
+  return num*2;
 }
